@@ -1,0 +1,197 @@
+{
+ "attribution": "FSL-105 dataset by Isaiah Jassen Tupal and Melvin Cabatuan, De La Salle University, CC BY 4.0, https://doi.org/10.17632/48y2y99mb9.2. Trimmed and re-encoded.",
+ "clips": [
+  {
+   "class_id": 0,
+   "gloss": "HELLO",
+   "file": "00-hello.webm",
+   "source": "clips/3/0.MOV",
+   "start_s": 1.9,
+   "duration_s": 1.783
+  },
+  {
+   "class_id": 1,
+   "gloss": "GOOD MORNING",
+   "file": "01-good-morning.webm",
+   "source": "clips/0/0.MOV",
+   "start_s": 0.5,
+   "duration_s": 2.9
+  },
+  {
+   "class_id": 2,
+   "gloss": "HOW ARE YOU",
+   "file": "02-how-are-you.webm",
+   "source": "clips/4/0.MOV",
+   "start_s": 1.283,
+   "duration_s": 2.333
+  },
+  {
+   "class_id": 3,
+   "gloss": "I'M FINE",
+   "file": "03-i-m-fine.webm",
+   "source": "clips/5/0.MOV",
+   "start_s": 1.683,
+   "duration_s": 1.767
+  },
+  {
+   "class_id": 4,
+   "gloss": "NICE TO MEET YOU",
+   "file": "04-nice-to-meet-you.webm",
+   "source": "clips/6/0.MOV",
+   "start_s": 0.9,
+   "duration_s": 2.617
+  },
+  {
+   "class_id": 5,
+   "gloss": "THANK YOU",
+   "file": "05-thank-you.webm",
+   "source": "clips/7/0.MOV",
+   "start_s": 1.833,
+   "duration_s": 1.9
+  },
+  {
+   "class_id": 6,
+   "gloss": "YOU'RE WELCOME",
+   "file": "06-you-re-welcome.webm",
+   "source": "clips/8/0.MOV",
+   "start_s": 1.433,
+   "duration_s": 2.033
+  },
+  {
+   "class_id": 7,
+   "gloss": "YES",
+   "file": "07-yes.webm",
+   "source": "clips/15/0.MOV",
+   "start_s": 1.45,
+   "duration_s": 2.3
+  },
+  {
+   "class_id": 8,
+   "gloss": "NO",
+   "file": "08-no.webm",
+   "source": "clips/14/0.MOV",
+   "start_s": 1.15,
+   "duration_s": 2.183
+  },
+  {
+   "class_id": 9,
+   "gloss": "UNDERSTAND",
+   "file": "09-understand.webm",
+   "source": "clips/10/0.MOV",
+   "start_s": 1.283,
+   "duration_s": 2.617
+  },
+  {
+   "class_id": 10,
+   "gloss": "DON'T UNDERSTAND",
+   "file": "10-don-t-understand.webm",
+   "source": "clips/11/0.MOV",
+   "start_s": 1.8,
+   "duration_s": 2.267
+  },
+  {
+   "class_id": 11,
+   "gloss": "KNOW",
+   "file": "11-know.webm",
+   "source": "clips/12/0.MOV",
+   "start_s": 1.85,
+   "duration_s": 2.167
+  },
+  {
+   "class_id": 12,
+   "gloss": "DON'T KNOW",
+   "file": "12-don-t-know.webm",
+   "source": "clips/13/0.MOV",
+   "start_s": 0.9,
+   "duration_s": 2.067
+  },
+  {
+   "class_id": 13,
+   "gloss": "SLOW",
+   "file": "13-slow.webm",
+   "source": "clips/18/0.MOV",
+   "start_s": 1.5,
+   "duration_s": 2.55
+  },
+  {
+   "class_id": 14,
+   "gloss": "CORRECT",
+   "file": "14-correct.webm",
+   "source": "clips/17/0.MOV",
+   "start_s": 1.65,
+   "duration_s": 2.2
+  },
+  {
+   "class_id": 15,
+   "gloss": "DEAF",
+   "file": "15-deaf.webm",
+   "source": "clips/66/0.MOV",
+   "start_s": 1.0,
+   "duration_s": 2.083
+  },
+  {
+   "class_id": 16,
+   "gloss": "HARD OF HEARING",
+   "file": "16-hard-of-hearing.webm",
+   "source": "clips/67/0.MOV",
+   "start_s": 0.917,
+   "duration_s": 1.867
+  },
+  {
+   "class_id": 17,
+   "gloss": "MOTHER",
+   "file": "17-mother.webm",
+   "source": "clips/53/0.MOV",
+   "start_s": 0.9,
+   "duration_s": 2.117
+  },
+  {
+   "class_id": 18,
+   "gloss": "FATHER",
+   "file": "18-father.webm",
+   "source": "clips/52/0.MOV",
+   "start_s": 1.15,
+   "duration_s": 2.283
+  },
+  {
+   "class_id": 19,
+   "gloss": "TODAY",
+   "file": "19-today.webm",
+   "source": "clips/49/0.MOV",
+   "start_s": 0.983,
+   "duration_s": 1.783
+  },
+  {
+   "class_id": 20,
+   "gloss": "TOMORROW",
+   "file": "20-tomorrow.webm",
+   "source": "clips/50/0.MOV",
+   "start_s": 1.15,
+   "duration_s": 1.8
+  },
+  {
+   "class_id": 21,
+   "gloss": "RICE",
+   "file": "21-rice.webm",
+   "source": "clips/91/0.MOV",
+   "start_s": 1.7,
+   "duration_s": 2.067
+  },
+  {
+   "class_id": 22,
+   "gloss": "CHICKEN",
+   "file": "22-chicken.webm",
+   "source": "clips/89/0.MOV",
+   "start_s": 0.933,
+   "duration_s": 2.433
+  },
+  {
+   "class_id": 23,
+   "gloss": "COFFEE",
+   "file": "23-coffee.webm",
+   "source": "clips/99/0.MOV",
+   "start_s": 1.017,
+   "duration_s": 2.617
+  }
+ ]
+}
