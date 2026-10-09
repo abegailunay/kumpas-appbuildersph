@@ -1,0 +1,23 @@
+# Dataset (do not commit raw data)
+datasets/
+
+# Archives
+*.zip
+
+# Node
+node_modules/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Local tool config
+.devin/config.local.json
