@@ -1,0 +1,194 @@
+[
+  {
+    "id": 0,
+    "dataset_label_id": 3,
+    "gloss": "HELLO",
+    "category": "GREETING",
+    "english": "Hello",
+    "filipino": "Kumusta!"
+  },
+  {
+    "id": 1,
+    "dataset_label_id": 0,
+    "gloss": "GOOD MORNING",
+    "category": "GREETING",
+    "english": "Good morning",
+    "filipino": "Magandang umaga"
+  },
+  {
+    "id": 2,
+    "dataset_label_id": 4,
+    "gloss": "HOW ARE YOU",
+    "category": "GREETING",
+    "english": "How are you?",
+    "filipino": "Kumusta ka?"
+  },
+  {
+    "id": 3,
+    "dataset_label_id": 5,
+    "gloss": "I'M FINE",
+    "category": "GREETING",
+    "english": "I'm fine",
+    "filipino": "Mabuti naman ako"
+  },
+  {
+    "id": 4,
+    "dataset_label_id": 6,
+    "gloss": "NICE TO MEET YOU",
+    "category": "GREETING",
+    "english": "Nice to meet you",
+    "filipino": "Ikinagagalak kitang makilala"
+  },
+  {
+    "id": 5,
+    "dataset_label_id": 7,
+    "gloss": "THANK YOU",
+    "category": "GREETING",
+    "english": "Thank you",
+    "filipino": "Salamat"
+  },
+  {
+    "id": 6,
+    "dataset_label_id": 8,
+    "gloss": "YOU'RE WELCOME",
+    "category": "GREETING",
+    "english": "You're welcome",
+    "filipino": "Walang anuman"
+  },
+  {
+    "id": 7,
+    "dataset_label_id": 15,
+    "gloss": "YES",
+    "category": "SURVIVAL",
+    "english": "Yes",
+    "filipino": "Oo"
+  },
+  {
+    "id": 8,
+    "dataset_label_id": 14,
+    "gloss": "NO",
+    "category": "SURVIVAL",
+    "english": "No",
+    "filipino": "Hindi"
+  },
+  {
+    "id": 9,
+    "dataset_label_id": 10,
+    "gloss": "UNDERSTAND",
+    "category": "SURVIVAL",
+    "english": "Understand",
+    "filipino": "Naiintindihan"
+  },
+  {
+    "id": 10,
+    "dataset_label_id": 11,
+    "gloss": "DON'T UNDERSTAND",
+    "category": "SURVIVAL",
+    "english": "Don't understand",
+    "filipino": "Hindi ko naiintindihan"
+  },
+  {
+    "id": 11,
+    "dataset_label_id": 12,
+    "gloss": "KNOW",
+    "category": "SURVIVAL",
+    "english": "Know",
+    "filipino": "Alam"
+  },
+  {
+    "id": 12,
+    "dataset_label_id": 13,
+    "gloss": "DON'T KNOW",
+    "category": "SURVIVAL",
+    "english": "Don't know",
+    "filipino": "Hindi ko alam"
+  },
+  {
+    "id": 13,
+    "dataset_label_id": 18,
+    "gloss": "SLOW",
+    "category": "SURVIVAL",
+    "english": "Slow",
+    "filipino": "Mabagal"
+  },
+  {
+    "id": 14,
+    "dataset_label_id": 17,
+    "gloss": "CORRECT",
+    "category": "SURVIVAL",
+    "english": "Correct",
+    "filipino": "Tama"
+  },
+  {
+    "id": 15,
+    "dataset_label_id": 66,
+    "gloss": "DEAF",
+    "category": "RELATIONSHIPS",
+    "english": "Deaf",
+    "filipino": "Bingi"
+  },
+  {
+    "id": 16,
+    "dataset_label_id": 67,
+    "gloss": "HARD OF HEARING",
+    "category": "RELATIONSHIPS",
+    "english": "Hard of hearing",
+    "filipino": "Mahina ang pandinig"
+  },
+  {
+    "id": 17,
+    "dataset_label_id": 53,
+    "gloss": "MOTHER",
+    "category": "FAMILY",
+    "english": "Mother",
+    "filipino": "Nanay"
+  },
+  {
+    "id": 18,
+    "dataset_label_id": 52,
+    "gloss": "FATHER",
+    "category": "FAMILY",
+    "english": "Father",
+    "filipino": "Tatay"
+  },
+  {
+    "id": 19,
+    "dataset_label_id": 49,
+    "gloss": "TODAY",
+    "category": "DAYS",
+    "english": "Today",
+    "filipino": "Ngayon"
+  },
+  {
+    "id": 20,
+    "dataset_label_id": 50,
+    "gloss": "TOMORROW",
+    "category": "DAYS",
+    "english": "Tomorrow",
+    "filipino": "Bukas"
+  },
+  {
+    "id": 21,
+    "dataset_label_id": 91,
+    "gloss": "RICE",
+    "category": "FOOD",
+    "english": "Rice",
+    "filipino": "Kanin"
+  },
+  {
+    "id": 22,
+    "dataset_label_id": 89,
+    "gloss": "CHICKEN",
+    "category": "FOOD",
+    "english": "Chicken",
+    "filipino": "Manok"
+  },
+  {
+    "id": 23,
+    "dataset_label_id": 99,
+    "gloss": "COFFEE",
+    "category": "DRINK",
+    "english": "Coffee",
+    "filipino": "Kape"
+  }
+]

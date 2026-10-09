@@ -24,3 +24,6 @@ __pycache__/
 
 # Extracted landmarks (regenerable)
 ml/landmarks/
+
+# Training checkpoints and logs (export.py writes the shipped model)
+ml/checkpoints/
